@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT / Database / AI
 - 🌱 I’m currently learning Computer Science in Paris
 - 💞️ I’m looking to collaborate on any project which could teach me anything
-- 📫 SASBD on discord. Will create other network for github specifically
+- 📫 SASBD on discord. Additional social networks might be created in the future if needed
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: There's a 99% of chance i've coded while listening to Lil peep
 
