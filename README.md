@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @LvdrBlvolp
 - 👀 I’m interested in IT / Database / AI
 - 🌱 I’m currently learning Computer Science in Paris
-- 💞️ I’m looking to collaborate on any project which could teach me anything
+- 💞️ Open to any collab
 - 📫 SASBD on discord. Additional social networks might be created in the future if needed
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Using Snoopy keycaps 😎
